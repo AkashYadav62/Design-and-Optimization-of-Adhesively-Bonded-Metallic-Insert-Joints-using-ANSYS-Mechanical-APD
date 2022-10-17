@@ -1,0 +1,525 @@
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       17:00:37
+
+ *** WARNING ***                         CP =      13.297   TIME= 17:06:05
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =      14.250   TIME= 17:06:13
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =      17.000   TIME= 17:07:58
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =      17.094   TIME= 17:07:59
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =      22.344   TIME= 17:10:56
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** ERROR ***                           CP =      22.578   TIME= 17:10:58
+ Isotropic material 1 has a value of Poisson's ratio of 1 which must be  
+ greater than -1.0 and less than 0.5 and is therefore not valid for      
+ isotropic materials.                                                    
+
+ *** ERROR ***                           CP =      22.953   TIME= 17:11:23
+ The step data was checked and there were errors found.                  
+  Please check output or errors file ( F:\4th year\8th                   
+ Semester\Project-final year\model_files\dp0\APDL\ANSYS\file.err ) for   
+ messages.                                                               
+
+ *** WARNING ***                         CP =      24.531   TIME= 17:12:31
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =      24.656   TIME= 17:12:31
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =      24.734   TIME= 17:12:31
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =      24.859   TIME= 17:12:31
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =      24.938   TIME= 17:12:31
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =      25.094   TIME= 17:12:32
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** ERROR ***                           CP =     106.578   TIME= 17:48:38
+ One or more materials (such as material 1) do not have all required     
+ stress or strain strength limits defined.  Therefore, no failure        
+ criteria are computed.                                                  
+
+ *** WARNING ***                         CP =     114.953   TIME= 17:53:41
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     115.203   TIME= 17:53:41
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     115.328   TIME= 17:53:41
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     115.547   TIME= 17:53:42
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     115.641   TIME= 17:53:42
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     115.781   TIME= 17:53:42
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** ERROR ***                           CP =     122.391   TIME= 17:53:50
+ One or more materials (such as material 1) do not have all required     
+ stress or strain strength limits defined.  Therefore, no failure        
+ criteria are computed.                                                  
+
+ *** WARNING ***                         CP =     126.734   TIME= 17:56:11
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     127.125   TIME= 17:56:12
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     127.266   TIME= 17:56:12
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     127.406   TIME= 17:56:12
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     127.484   TIME= 17:56:13
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     127.625   TIME= 17:56:13
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     138.438   TIME= 17:57:36
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     138.609   TIME= 17:57:36
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     138.672   TIME= 17:57:36
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     138.859   TIME= 17:57:36
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     138.969   TIME= 17:57:37
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     139.094   TIME= 17:57:37
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     148.250   TIME= 17:58:22
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     148.688   TIME= 17:58:23
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     148.766   TIME= 17:58:23
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     148.938   TIME= 17:58:23
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     149.031   TIME= 17:58:23
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     149.109   TIME= 17:58:23
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     158.359   TIME= 17:59:28
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     158.828   TIME= 17:59:28
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     158.906   TIME= 17:59:28
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     159.188   TIME= 17:59:29
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     159.250   TIME= 17:59:29
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     159.422   TIME= 17:59:29
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     168.734   TIME= 18:00:36
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     169.078   TIME= 18:00:36
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     169.141   TIME= 18:00:36
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     169.250   TIME= 18:00:36
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     169.312   TIME= 18:00:37
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     169.422   TIME= 18:00:37
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     176.734   TIME= 18:01:22
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     177.109   TIME= 18:01:23
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     177.188   TIME= 18:01:23
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     177.328   TIME= 18:01:23
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     177.406   TIME= 18:01:23
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     177.531   TIME= 18:01:23
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     185.016   TIME= 18:02:12
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     185.422   TIME= 18:02:12
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     185.516   TIME= 18:02:12
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     185.734   TIME= 18:02:13
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     185.828   TIME= 18:02:13
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     185.922   TIME= 18:02:13
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     193.438   TIME= 18:03:02
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     193.875   TIME= 18:03:03
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     193.953   TIME= 18:03:03
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     194.109   TIME= 18:03:03
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     194.188   TIME= 18:03:03
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     194.297   TIME= 18:03:03
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     201.938   TIME= 18:03:54
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     202.266   TIME= 18:03:55
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     202.312   TIME= 18:03:55
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     202.406   TIME= 18:03:55
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     202.484   TIME= 18:03:55
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     202.578   TIME= 18:03:55
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     210.156   TIME= 18:04:34
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     210.500   TIME= 18:04:34
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     210.578   TIME= 18:04:34
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     210.719   TIME= 18:04:35
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     210.812   TIME= 18:04:35
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     210.938   TIME= 18:04:35
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     221.875   TIME= 18:07:35
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     222.000   TIME= 18:07:35
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     222.094   TIME= 18:07:35
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     222.234   TIME= 18:07:35
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     222.297   TIME= 18:07:35
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     222.359   TIME= 18:07:35
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     233.656   TIME= 18:08:57
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     233.766   TIME= 18:08:57
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     233.828   TIME= 18:08:57
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     233.953   TIME= 18:08:57
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     234.047   TIME= 18:08:57
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     234.156   TIME= 18:08:57
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     244.781   TIME= 18:10:44
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     244.891   TIME= 18:10:44
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     244.953   TIME= 18:10:44
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     245.094   TIME= 18:10:44
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     245.141   TIME= 18:10:44
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     245.203   TIME= 18:10:45
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     256.000   TIME= 18:12:06
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     256.109   TIME= 18:12:06
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     256.172   TIME= 18:12:06
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     256.266   TIME= 18:12:07
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     256.344   TIME= 18:12:07
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     256.438   TIME= 18:12:07
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     266.438   TIME= 18:13:37
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     266.562   TIME= 18:13:37
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     266.656   TIME= 18:13:37
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     266.750   TIME= 18:13:37
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     266.812   TIME= 18:13:37
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     266.906   TIME= 18:13:37
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     276.906   TIME= 18:14:53
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     277.031   TIME= 18:14:53
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     277.094   TIME= 18:14:53
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     277.219   TIME= 18:14:54
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     277.250   TIME= 18:14:54
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     277.375   TIME= 18:14:54
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     287.266   TIME= 18:16:52
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     287.391   TIME= 18:16:53
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     287.469   TIME= 18:16:53
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     287.594   TIME= 18:16:53
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     287.672   TIME= 18:16:53
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     287.781   TIME= 18:16:53
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     298.266   TIME= 18:17:41
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     298.406   TIME= 18:17:42
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     298.484   TIME= 18:17:42
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     298.609   TIME= 18:17:42
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     298.656   TIME= 18:17:42
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     298.734   TIME= 18:17:42
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     309.203   TIME= 18:19:00
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     309.312   TIME= 18:19:00
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     309.391   TIME= 18:19:00
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     309.594   TIME= 18:19:01
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     309.688   TIME= 18:19:01
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     309.797   TIME= 18:19:01
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            
+
+ *** WARNING ***                         CP =     323.375   TIME= 18:22:38
+ User Interface mode is already on.  Command ignored.                    
+
+ *** WARNING ***                         CP =     323.469   TIME= 18:22:38
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =     323.531   TIME= 18:22:38
+ Volume 1 is being meshed entirely with SOLID185 tetrahedra, which can   
+ be much less accurate than bricks.  Use quadratic (10-node) tetrahedra  
+ if available.                                                           
+
+ *** WARNING ***                         CP =     323.641   TIME= 18:22:38
+ A duplicate degree of freedom label (VELX) was found on the D command.  
+
+ *** WARNING ***                         CP =     323.703   TIME= 18:22:38
+ A duplicate degree of freedom label (VELY) was found on the D command.  
+
+ *** WARNING ***                         CP =     323.797   TIME= 18:22:39
+ Meshes made up of 10 percent or more of SOLID185 tetrahedra are not     
+ recommended.                                                            

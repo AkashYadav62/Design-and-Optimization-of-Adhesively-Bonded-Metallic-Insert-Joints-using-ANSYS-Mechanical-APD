@@ -1,0 +1,64 @@
+# encoding: utf-8
+# Release 19.2
+SetScriptVersion(Version="19.2.120")
+fileType1 = GetFileType(Name="GeometryFileType")
+ImportFile(
+    FilePath="F:/4th year/8th Semester/Project-final year/Part1.IGS",
+    FileType=fileType1)
+system1 = GetSystem(Name="Geometry")
+geometry1 = system1.GetContainer(ComponentName="Geometry")
+geometry1.Edit()
+Save(Overwrite=True)
+geometry1.Exit()
+template1 = GetTemplate(TemplateName="Mechanical APDL")
+geometryComponent1 = system1.GetComponent(Name="Geometry")
+componentTemplate1 = GetComponentTemplate(Name="ANSYSSetupCellTemplate")
+system2 = template1.CreateSystem(
+    DataTransferFrom=[Set(FromComponent=geometryComponent1, TransferName=None, ToComponentTemplate=componentTemplate1)],
+    RelativeTo=system1)
+setupComponent1 = system2.GetComponent(Name="Setup")
+setupComponent1.Refresh()
+setup1 = system2.GetContainer(ComponentName="Setup")
+setup1.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup1.Exit()
+setupComponent1.Refresh()
+setup1.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup1.Exit()
+system2.Delete()
+system3 = template1.CreateSystem(
+    DataTransferFrom=[Set(FromComponent=geometryComponent1, TransferName=None, ToComponentTemplate=componentTemplate1)],
+    RelativeTo=system1)
+setupComponent2 = system3.GetComponent(Name="Setup")
+setupComponent2.Refresh()
+setup2 = system3.GetContainer(ComponentName="Setup")
+setup2.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup2.Exit()
+system3.Delete()
+system4 = template1.CreateSystem(
+    DataTransferFrom=[Set(FromComponent=geometryComponent1, TransferName=None, ToComponentTemplate=componentTemplate1)],
+    RelativeTo=system1)
+setupComponent3 = system4.GetComponent(Name="Setup")
+setupComponent3.Refresh()
+setup3 = system4.GetContainer(ComponentName="Setup")
+setup3.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup3.Exit()
+system4.Delete()
+system5 = template1.CreateSystem(
+    DataTransferFrom=[Set(FromComponent=geometryComponent1, TransferName=None, ToComponentTemplate=componentTemplate1)],
+    RelativeTo=system1)
+setupComponent4 = system5.GetComponent(Name="Setup")
+setupComponent4.Refresh()
+setup4 = system5.GetContainer(ComponentName="Setup")
+setup4.Edit(
+    Interactive=True,
+    LoadInputFiles=True)
+setup4.Exit()
+Save(Overwrite=True)
